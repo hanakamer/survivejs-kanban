@@ -1,0 +1,15 @@
+{
+  "presets": [
+    "es2015",
+    "react"
+  ],
+  "plugins": [
+    "array-includes",
+    "syntax-class-properties",
+    "syntax-object-rest-spread",
+    "transform-class-properties",
+    "transform-decorators-legacy",
+    "transform-object-assign",
+    "transform-object-rest-spread"
+  ]
+}
