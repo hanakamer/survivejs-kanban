@@ -1,5 +1,5 @@
 {
-  "name": "webpack-react-boilerplate",
+  "name": "survivejs-kanban",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -22,6 +22,7 @@
   "homepage": "https://github.com/hanakamer/webpack-react-boilerplate#readme",
   "devDependencies": {
     "babel-core": "^6.7.0",
+    "babel-eslint": "^6.0.0-beta.5",
     "babel-loader": "^6.2.4",
     "babel-plugin-array-includes": "^2.0.3",
     "babel-plugin-syntax-class-properties": "^6.5.0",
