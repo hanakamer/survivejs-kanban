@@ -51,5 +51,4 @@ body {
 
 .note:hover .delete-note {
   visibility: visible;
-  transition: 0.6s;
 }
